@@ -1,0 +1,44 @@
+{
+  "name": "eko-rating-input",
+  "version": "1.1.0",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "description": "eko-rating-input is created as input or show Rating stars value to use in forms or on loaded data with a rating input from 1 to 5 ",
+  "main": "bundles/eko-rating-input.umd.js",
+  "keywords": [
+    "Angular CLI"
+  ],
+  "author": "Valon Hajredini",
+  "license": "EKO",
+  "module": "fesm5/eko-rating-input.js",
+  "es2015": "fesm2015/eko-rating-input.js",
+  "esm5": "esm5/eko-rating-input.js",
+  "esm2015": "esm2015/eko-rating-input.js",
+  "fesm5": "fesm5/eko-rating-input.js",
+  "fesm2015": "fesm2015/eko-rating-input.js",
+  "typings": "eko-rating-input.d.ts",
+  "metadata": "eko-rating-input.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0",
+    "user": "0.0.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValonHajredini/eko-star-rating-input.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ValonHajredini/eko-star-rating-input/issues"
+  },
+  "homepage": "https://github.com/ValonHajredini/eko-star-rating-input#readme"
+}
+
+
