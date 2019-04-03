@@ -4,7 +4,7 @@ Install `eko-rating-input` from `npm`:
 npm i eko-rating-input --save
 ```
 this package neads to have ```fontawsome``` installed.
-<h2 style="color: blue"><a href="https://valonhajredini.github.io/eko-lib-builder/">Click to se Demo</a></h2>
+<h2 style="color: blue"><a href="https://valonhajredini.github.io/angularNPMLibGenerator/">Click to se Demo</a></h2>
 
 Add needed package to NgModule imports:
 ```js
